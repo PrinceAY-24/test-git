@@ -1,0 +1,30 @@
+{
+    "bread": {
+        "quantity": 5,
+        "price": 1500.0
+    },
+    "milo": {
+        "quantity": 30,
+        "price": 300.0
+    },
+    "three crown milk": {
+        "quantity": 50,
+        "price": 300.0
+    },
+    "sardine": {
+        "quantity": 20,
+        "price": 1250.0
+    },
+    "noodles": {
+        "quantity": 80,
+        "price": 300.0
+    },
+    "sachet power oil": {
+        "quantity": 50,
+        "price": 200.0
+    },
+    "eggs": {
+        "quantity": 90,
+        "price": 250.0
+    }
+}
