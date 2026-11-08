@@ -1,0 +1,24 @@
+# Generated .gitignore file for: PostgreSQL
+# Created with FOSSA's DevOps Tools
+
+# PostgreSQL
+# Add PostgreSQL-specific ignores here
+*.grade_tracker.session.sql
+
+# Common
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# IDE and editor generated files
+.idea/
+*.sublime-*
+
+# Local environment files
+.env
+.env.local
+.env.*.local
